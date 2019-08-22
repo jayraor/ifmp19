@@ -3,7 +3,7 @@ some code snippets (potentially useful for exercises etc.)
 
 hey guys, 
 
-here every weak i will probably commit some code and hints for exercise sheets (only look if you can't solve them, i.e struggle solving the problem)
+here every week i will probably commit some code and hints for exercise sheets (only look if you can't solve them, i.e struggle solving the problem)
 
 if you have code related problems, but are fairly certain your approach is correct, then drop me a message via mail and submit your code for me to take a look at it.
 
