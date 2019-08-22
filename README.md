@@ -1,7 +1,7 @@
 # ifmp19
 some code snippets (potentially useful for exercises etc.)
 
-hey guys, 
+welcome, 
 
 here every week i will probably commit some code and hints for exercise sheets (only look if you can't solve them, i.e struggle solving the problem)
 
