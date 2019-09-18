@@ -17,5 +17,5 @@ int main(void)
     std::cin>>mod;
     
     // Ausgabe von Modulo
-    std::cout<<"Das Ergebnis ist: "<<mod<<std::endl;
+    std::cout<<"Das Ergebnis ist: "<<num % mod<<std::endl;
 }
