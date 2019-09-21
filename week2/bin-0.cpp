@@ -9,7 +9,7 @@
  int main(void)
  {
     int bin = 0b1001;
-    cout<<bin;
+    cout<<bin<<endl;
     
     return 0;
  }
