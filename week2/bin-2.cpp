@@ -22,6 +22,8 @@ int main(void)
         counter++;
     }
  
+    size = size / 2;
+ 
     while (counter >= 0)
     {   
         cout<<a/size;
