@@ -24,7 +24,7 @@ int main(void)
  
     size = size / 2;
  
-    while (counter >= 0)
+    while (counter > 0)
     {   
         cout<<a/size;
         counter--;
